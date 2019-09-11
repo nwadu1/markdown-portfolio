@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Ariana Grande](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjbw6WP78jkAhVkh-AKHauFBW4QjRx6BAgBEAQ&url=https%3A%2F%2Fpopcrush.com%2Fariana-grande-frank-ocean-lawsuit-rumors%2F&psig=AOvVaw3kS1B6eY3W-VNv85wENsYL&ust=1568294679629785)
